@@ -179,5 +179,4 @@ class Daemon:
                     return None
             except:
                 return None
-        
 d = Daemon()

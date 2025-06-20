@@ -3,7 +3,6 @@ import ChessTimer
 import lcd_main as lcd
 from multiprocessing import shared_memory
 
-
 class ChessClock:
     def __init__(self, timecontrol='10|5'): #(30, 5)  
         slash = timecontrol.index('|')
