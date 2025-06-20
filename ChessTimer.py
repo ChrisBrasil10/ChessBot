@@ -91,4 +91,3 @@ class ChessTimer(object):
         self._timers[task] = 0.0
 
     return values
-
