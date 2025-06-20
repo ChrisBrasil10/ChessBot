@@ -1,0 +1,4 @@
+chess==1.9.3
+PyAudio==0.2.12
+SpeechRecognition==3.8.1
+flac

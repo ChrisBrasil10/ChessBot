@@ -1,0 +1,20 @@
+To do:
+* test the basic functions of speech recognition for pocketsphinx 
+* test if the speechrecognition is better?
+* integrate the speechrecognition with chess
+    * chess automatically update its board position if another file changes
+    * speech recognition write to said file 
+    * train speech recognition 
+* write an algorithm for magnet to move
+    * get the servos to move in coordination with eachother 
+    * write the move package to move from 1 pt to another 
+    * getdimentions of the pieces/squares? 
+    * Nc3 -> 
+        * where is N or c3? piece/square locator 
+        * generate the path to move the piece 
+        actually move the piece w the stuff
+* integrate the program with the LCD 
+
+
+Completed:
+* test the basic functions of chess python 

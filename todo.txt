@@ -1,0 +1,28 @@
+FINISHED:
+* test if shadowrealm and shadowmoves work
+    * test if all shadowmoves work alongside the real board 
+    * fix error with e2e2
+* reset all pieces work? 
+* can you write a file with the game before termination or changing modes
+* implement review as opposed to spectate 
+* control system work in daemon: reset if you switch modes to review from play 
+* make led and lcd comments. activate during testing 
+* user can only make inputs when the machine has executed the move
+* test with led 
+* test with lcd
+* why is log so disorganized?
+* implement resign? alterations of headers are not allowed?
+* fix problem with review and spectate rewriting over the game we just played 
+* implement engine to user playing 
+    * implement user choice of white or black against engine 
+
+TO DO:
+
+ASK OTHERS FOR HELP:
+
+EXTRA CREDIT (NOT REQUIRED BUT WE NEED IF WE WANT TO WINNNN)
+
+AFTER PRESENTATION:
+* implement analysis (only on if we are reviewing or spectating)
+* implement timer
+* can you get bluetooth working? 
