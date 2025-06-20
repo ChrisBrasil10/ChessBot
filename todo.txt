@@ -20,8 +20,6 @@ TO DO:
 
 ASK OTHERS FOR HELP:
 
-EXTRA CREDIT (NOT REQUIRED BUT WE NEED IF WE WANT TO WINNNN)
-
 AFTER PRESENTATION:
 * implement analysis (only on if we are reviewing or spectating)
 * implement timer
