@@ -15,6 +15,5 @@ To do:
         actually move the piece w the stuff
 * integrate the program with the LCD 
 
-
 Completed:
 * test the basic functions of chess python 
