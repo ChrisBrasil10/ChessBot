@@ -10,7 +10,6 @@ def run_once():
     t = Timer(5, display,["Timeout:"])
     t.start()
 '''
-
 class RepeatTimer(Timer):
     def run(self):
         while not self.finished.wait(self.interval):
