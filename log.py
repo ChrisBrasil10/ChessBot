@@ -7,6 +7,7 @@ import lcd_main as lcd
 import motorlib
 import chessClock
 
+
 class Log:
     def __init__(self): #Initialize constents 
         self.game = chess.pgn.Game()
