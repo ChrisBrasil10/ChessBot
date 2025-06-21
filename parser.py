@@ -12,6 +12,7 @@ def cleanData(command):
     print("clean data: ", command)
     return(command)
 
+
 #String(command) checks if the clean string is an actual move or a key phrase, then deal
 #with them accordingly
 def parse(command):
