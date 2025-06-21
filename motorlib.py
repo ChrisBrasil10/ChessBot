@@ -29,8 +29,6 @@ import RPi.GPIO as GPIO
 
 
 
-
-
 class StopMotorInterrupt(Exception):
     """ Stop the motor """
     pass
