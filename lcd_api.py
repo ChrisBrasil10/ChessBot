@@ -9,7 +9,6 @@ class LcdApi:
     them to the LCD.
     It is expected that a derived class will implement the hal_xxx functions.
     """
-
     # The following constant names were lifted from the avrlib lcd.h
     # header file, however, I changed the definitions from bit numbers
     # to bit masks.
