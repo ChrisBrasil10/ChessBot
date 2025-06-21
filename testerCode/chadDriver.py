@@ -10,7 +10,6 @@ directiony = 26
 stepy = 19
 EN_pin_y = 13
 
-
 motorx = RpiMotorLib.A4988Nema(directionx, stepx, (21,21,21), "DRV8825")
 GPIO.setup(EN_pin_x,GPIO.OUT)
 

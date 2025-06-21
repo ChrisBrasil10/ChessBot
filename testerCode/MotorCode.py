@@ -130,5 +130,4 @@ try:
                 i = i-1
 except KeyboardInterrupt:
     GPIO.cleanup()
-                    
                 
