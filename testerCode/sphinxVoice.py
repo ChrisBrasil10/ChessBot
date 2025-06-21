@@ -8,5 +8,6 @@ speech = LiveSpeech(
     dic=get_model_path('en-us\\3335.dic')
 )
 
+
 for phrase in speech:
     print(phrase)
