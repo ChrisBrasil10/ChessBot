@@ -18,7 +18,6 @@ MASK_E = 0x04
 SHIFT_BACKLIGHT = 3
 SHIFT_DATA = 4
 
-
 class I2cLcd(LcdApi):
     """Implements a HD44780 character LCD connected via PCF8574 on I2C."""
 
