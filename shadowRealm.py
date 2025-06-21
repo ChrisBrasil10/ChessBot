@@ -23,8 +23,7 @@ class shadowRealm:
             print("i already reset")
             motorlib.MotorSys.push_move(coordinate, destination, True)
         print(self.board)
-       
-            
+         
         #shadowRealm.reinstate(destination, promotion_piece)
 
     class shadowBoard():
