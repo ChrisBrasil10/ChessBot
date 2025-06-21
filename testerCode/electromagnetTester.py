@@ -11,7 +11,6 @@ def electromagnet(on):
     GPIO.output(electromagnet_pin, output)
 
 
-
 electromagnet(False)
 
 #electromagnet(False
