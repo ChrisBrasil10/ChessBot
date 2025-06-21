@@ -23,8 +23,6 @@ with sr.Microphone() as source:
     except:
         print('Sorry could not recognize your voice')
         
-
-
 '''
 import os
 from pocketsphinx import LiveSpeech
