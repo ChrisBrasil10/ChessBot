@@ -2,7 +2,6 @@ import speech_recognition as sr
 import threading
 from chessClock import ChessClock
 
-
 r = sr.Recognizer()
 clock = ChessClock()
 listening = True
