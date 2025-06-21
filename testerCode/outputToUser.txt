@@ -1,16 +1,13 @@
-Kerry:
-* Moving piece: number of move + move name 
-* black to move/white to move
-* black win, white win, draw
-* if we have time. check + stuff 
-* error: not a valid move 
-
-
 Chris:
 * play again/reset
 * black resign, white resign 
 * pause + resume (maybe resume is button?)
 * terminate chessbot? (or maybe a button)
+* Moving piece: number of move + move name 
+* black to move/white to move
+* black win, white win, draw
+* if we have time. check + stuff 
+* error: not a valid move 
 
 
 Types of Error Messages:
